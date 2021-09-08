@@ -1,0 +1,21 @@
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1/diff_iter/1000 -src_dir ./c_data/mnist/eps_1/diff_iter/1000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1/diff_iter/5000 -src_dir ./c_data/mnist/eps_1/diff_iter/5000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1/diff_iter/10000 -src_dir ./c_data/mnist/eps_1/diff_iter/10000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1/diff_iter/20000 -src_dir ./c_data/mnist/eps_1/diff_iter/20000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps10/diff_iter/1000 -src_dir ./c_data/mnist/eps_10/diff_iter/1000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps10/diff_iter/5000 -src_dir ./c_data/mnist/eps_10/diff_iter/5000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps10/diff_iter/10000 -src_dir ./c_data/mnist/eps_10/diff_iter/10000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps10/diff_iter/20000 -src_dir ./c_data/mnist/eps_10/diff_iter/20000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps100/diff_iter/1000 -src_dir ./c_data/mnist/eps_100/diff_iter/1000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps100/diff_iter/5000 -src_dir ./c_data/mnist/eps_100/diff_iter/5000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps100/diff_iter/10000 -src_dir ./c_data/mnist/eps_100/diff_iter/10000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps100/diff_iter/20000 -src_dir ./c_data/mnist/eps_100/diff_iter/20000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1000/diff_iter/1000 -src_dir ./c_data/mnist/eps_1000/diff_iter/1000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1000/diff_iter/5000 -src_dir ./c_data/mnist/eps_1000/diff_iter/5000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1000/diff_iter/10000 -src_dir ./c_data/mnist/eps_1000/diff_iter/10000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/eps1000/diff_iter/20000 -src_dir ./c_data/mnist/eps_1000/diff_iter/20000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/epsinf/diff_iter/1000 -src_dir ./c_data/mnist/eps_inf/diff_iter/1000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/epsinf/diff_iter/5000 -src_dir ./c_data/mnist/eps_inf/diff_iter/5000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/epsinf/diff_iter/10000 -src_dir ./c_data/mnist/eps_inf/diff_iter/10000/
+python convert_noclass.py -save_dir ./GS_WGAN/mnist/epsinf/diff_iter/20000 -src_dir ./c_data/mnist/eps_inf/diff_iter/20000/
+

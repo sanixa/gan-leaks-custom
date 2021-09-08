@@ -1,0 +1,5 @@
+iter:1000, acc:7.3%
+iter:1000, acc:7.0%
+iter:5000, acc:12.0%
+iter:10000, acc:14.7%
+iter:20000, acc:19.5%

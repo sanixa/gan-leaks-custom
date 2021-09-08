@@ -1,0 +1,360 @@
+./data/CGAN/cifar/eps10/diff_iter/1000
+exp_name:dpcgan_eps10_1000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/1000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/1000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/1000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 18.85450 
+POSITIVE: The 25pert distance value is: 19.11441 
+POSITIVE: The 50pert distance value is: 20.67282 
+POSITIVE: The 75pert distance value is: 22.42215 
+NEGATIVE: The nearset distance value of is: 18.81191 
+NEGATIVE: The 25pert distance value of is: 19.09747 
+NEGATIVE: The 50pert distance value of is: 20.64468 
+NEGATIVE: The 75pert distance value of is: 22.29884 
+The accuracy value of fbb attack is: 0.500 
+The tpr_thres/fpr_thres value of fbb attack is: 0.500 and 0.500
+The AUC ROC value of fbb attack is: 0.497 
+./data/CGAN/cifar/eps10/diff_iter/2000
+exp_name:dpcgan_eps10_2000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/2000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/2000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/2000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 19.11669 
+POSITIVE: The 25pert distance value is: 18.74564 
+POSITIVE: The 50pert distance value is: 21.45421 
+POSITIVE: The 75pert distance value is: 24.27784 
+NEGATIVE: The nearset distance value of is: 19.03241 
+NEGATIVE: The 25pert distance value of is: 18.74317 
+NEGATIVE: The 50pert distance value of is: 21.36689 
+NEGATIVE: The 75pert distance value of is: 24.07938 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.502
+The AUC ROC value of fbb attack is: 0.495 
+./data/CGAN/cifar/eps10/diff_iter/3000
+exp_name:dpcgan_eps10_3000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/3000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/3000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/3000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 31.16007 
+POSITIVE: The 25pert distance value is: 28.83659 
+POSITIVE: The 50pert distance value is: 32.38286 
+POSITIVE: The 75pert distance value is: 36.26345 
+NEGATIVE: The nearset distance value of is: 31.23803 
+NEGATIVE: The 25pert distance value of is: 28.99669 
+NEGATIVE: The 50pert distance value of is: 32.42978 
+NEGATIVE: The 75pert distance value of is: 36.29355 
+The accuracy value of fbb attack is: 0.502 
+The tpr_thres/fpr_thres value of fbb attack is: 0.502 and 0.498
+The AUC ROC value of fbb attack is: 0.504 
+./data/CGAN/cifar/eps10/diff_iter/4000
+exp_name:dpcgan_eps10_4000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/4000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/4000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/4000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 15.86286 
+POSITIVE: The 25pert distance value is: 15.49969 
+POSITIVE: The 50pert distance value is: 17.82697 
+POSITIVE: The 75pert distance value is: 20.28718 
+NEGATIVE: The nearset distance value of is: 15.73296 
+NEGATIVE: The 25pert distance value of is: 15.43316 
+NEGATIVE: The 50pert distance value of is: 17.72050 
+NEGATIVE: The 75pert distance value of is: 20.06148 
+The accuracy value of fbb attack is: 0.495 
+The tpr_thres/fpr_thres value of fbb attack is: 0.495 and 0.505
+The AUC ROC value of fbb attack is: 0.489 
+./data/CGAN/cifar/eps10/diff_iter/5000
+exp_name:dpcgan_eps10_5000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/5000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/5000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/5000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 18.49760 
+POSITIVE: The 25pert distance value is: 17.87197 
+POSITIVE: The 50pert distance value is: 20.85226 
+POSITIVE: The 75pert distance value is: 23.96956 
+NEGATIVE: The nearset distance value of is: 18.35277 
+NEGATIVE: The 25pert distance value of is: 17.80020 
+NEGATIVE: The 50pert distance value of is: 20.71880 
+NEGATIVE: The 75pert distance value of is: 23.65207 
+The accuracy value of fbb attack is: 0.497 
+The tpr_thres/fpr_thres value of fbb attack is: 0.497 and 0.503
+The AUC ROC value of fbb attack is: 0.491 
+./data/CGAN/cifar/eps10/diff_iter/6000
+exp_name:dpcgan_eps10_6000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/6000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/6000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/6000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.94430 
+POSITIVE: The 25pert distance value is: 15.05056 
+POSITIVE: The 50pert distance value is: 17.05579 
+POSITIVE: The 75pert distance value is: 19.19487 
+NEGATIVE: The nearset distance value of is: 14.89377 
+NEGATIVE: The 25pert distance value of is: 15.00033 
+NEGATIVE: The 50pert distance value of is: 17.00015 
+NEGATIVE: The 75pert distance value of is: 19.05824 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.502
+The AUC ROC value of fbb attack is: 0.494 
+./data/CGAN/cifar/eps10/diff_iter/7000
+exp_name:dpcgan_eps10_7000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/7000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/7000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/7000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 15.35182 
+POSITIVE: The 25pert distance value is: 15.85413 
+POSITIVE: The 50pert distance value is: 17.86837 
+POSITIVE: The 75pert distance value is: 20.10081 
+NEGATIVE: The nearset distance value of is: 15.25713 
+NEGATIVE: The 25pert distance value of is: 15.79392 
+NEGATIVE: The 50pert distance value of is: 17.77135 
+NEGATIVE: The 75pert distance value of is: 19.96005 
+The accuracy value of fbb attack is: 0.494 
+The tpr_thres/fpr_thres value of fbb attack is: 0.494 and 0.506
+The AUC ROC value of fbb attack is: 0.490 
+./data/CGAN/cifar/eps10/diff_iter/8000
+exp_name:dpcgan_eps10_8000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/8000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/8000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/8000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.89394 
+POSITIVE: The 25pert distance value is: 15.56548 
+POSITIVE: The 50pert distance value is: 17.44432 
+POSITIVE: The 75pert distance value is: 19.52769 
+NEGATIVE: The nearset distance value of is: 14.86611 
+NEGATIVE: The 25pert distance value of is: 15.58313 
+NEGATIVE: The 50pert distance value of is: 17.42997 
+NEGATIVE: The 75pert distance value of is: 19.47088 
+The accuracy value of fbb attack is: 0.499 
+The tpr_thres/fpr_thres value of fbb attack is: 0.499 and 0.501
+The AUC ROC value of fbb attack is: 0.498 
+./data/CGAN/cifar/eps10/diff_iter/9000
+exp_name:dpcgan_eps10_9000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/9000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/9000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/9000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.95756 
+POSITIVE: The 25pert distance value is: 15.18572 
+POSITIVE: The 50pert distance value is: 17.24474 
+POSITIVE: The 75pert distance value is: 19.86057 
+NEGATIVE: The nearset distance value of is: 14.96004 
+NEGATIVE: The 25pert distance value of is: 15.16016 
+NEGATIVE: The 50pert distance value of is: 17.25286 
+NEGATIVE: The 75pert distance value of is: 19.94477 
+The accuracy value of fbb attack is: 0.500 
+The tpr_thres/fpr_thres value of fbb attack is: 0.499 and 0.500
+The AUC ROC value of fbb attack is: 0.500 
+./data/CGAN/cifar/eps10/diff_iter/10000
+exp_name:dpcgan_eps10_10000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/10000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/10000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/10000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.65148 
+POSITIVE: The 25pert distance value is: 16.19896 
+POSITIVE: The 50pert distance value is: 17.94594 
+POSITIVE: The 75pert distance value is: 20.02159 
+NEGATIVE: The nearset distance value of is: 14.65387 
+NEGATIVE: The 25pert distance value of is: 16.17378 
+NEGATIVE: The 50pert distance value of is: 17.94093 
+NEGATIVE: The 75pert distance value of is: 20.04083 
+The accuracy value of fbb attack is: 0.500 
+The tpr_thres/fpr_thres value of fbb attack is: 0.500 and 0.500
+The AUC ROC value of fbb attack is: 0.500 
+./data/CGAN/cifar/eps10/diff_iter/11000
+exp_name:dpcgan_eps10_11000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/11000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/11000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/11000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 16.92480 
+POSITIVE: The 25pert distance value is: 15.79145 
+POSITIVE: The 50pert distance value is: 18.15208 
+POSITIVE: The 75pert distance value is: 21.21539 
+NEGATIVE: The nearset distance value of is: 16.98364 
+NEGATIVE: The 25pert distance value of is: 15.81313 
+NEGATIVE: The 50pert distance value of is: 18.17408 
+NEGATIVE: The 75pert distance value of is: 21.23359 
+The accuracy value of fbb attack is: 0.499 
+The tpr_thres/fpr_thres value of fbb attack is: 0.499 and 0.501
+The AUC ROC value of fbb attack is: 0.503 
+./data/CGAN/cifar/eps10/diff_iter/12000
+exp_name:dpcgan_eps10_12000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/12000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/12000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/12000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 15.07702 
+POSITIVE: The 25pert distance value is: 15.47778 
+POSITIVE: The 50pert distance value is: 17.34750 
+POSITIVE: The 75pert distance value is: 19.46691 
+NEGATIVE: The nearset distance value of is: 15.00938 
+NEGATIVE: The 25pert distance value of is: 15.44004 
+NEGATIVE: The 50pert distance value of is: 17.28358 
+NEGATIVE: The 75pert distance value of is: 19.35360 
+The accuracy value of fbb attack is: 0.495 
+The tpr_thres/fpr_thres value of fbb attack is: 0.495 and 0.505
+The AUC ROC value of fbb attack is: 0.494 
+./data/CGAN/cifar/eps10/diff_iter/13000
+exp_name:dpcgan_eps10_13000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/13000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/13000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/13000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.69398 
+POSITIVE: The 25pert distance value is: 15.06892 
+POSITIVE: The 50pert distance value is: 16.92667 
+POSITIVE: The 75pert distance value is: 18.98194 
+NEGATIVE: The nearset distance value of is: 14.69007 
+NEGATIVE: The 25pert distance value of is: 15.03282 
+NEGATIVE: The 50pert distance value of is: 16.91388 
+NEGATIVE: The 75pert distance value of is: 18.97034 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.502
+The AUC ROC value of fbb attack is: 0.498 
+./data/CGAN/cifar/eps10/diff_iter/14000
+exp_name:dpcgan_eps10_14000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/14000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/14000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/14000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 16.02220 
+POSITIVE: The 25pert distance value is: 16.50032 
+POSITIVE: The 50pert distance value is: 18.11208 
+POSITIVE: The 75pert distance value is: 20.06272 
+NEGATIVE: The nearset distance value of is: 15.98125 
+NEGATIVE: The 25pert distance value of is: 16.43318 
+NEGATIVE: The 50pert distance value of is: 18.03830 
+NEGATIVE: The 75pert distance value of is: 20.04380 
+The accuracy value of fbb attack is: 0.495 
+The tpr_thres/fpr_thres value of fbb attack is: 0.495 and 0.505
+The AUC ROC value of fbb attack is: 0.494 
+./data/CGAN/cifar/eps10/diff_iter/15000
+exp_name:dpcgan_eps10_15000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/15000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/15000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/15000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 15.84835 
+POSITIVE: The 25pert distance value is: 16.95790 
+POSITIVE: The 50pert distance value is: 18.62188 
+POSITIVE: The 75pert distance value is: 20.59251 
+NEGATIVE: The nearset distance value of is: 15.82321 
+NEGATIVE: The 25pert distance value of is: 16.96454 
+NEGATIVE: The 50pert distance value of is: 18.62896 
+NEGATIVE: The 75pert distance value of is: 20.58026 
+The accuracy value of fbb attack is: 0.502 
+The tpr_thres/fpr_thres value of fbb attack is: 0.502 and 0.498
+The AUC ROC value of fbb attack is: 0.499 
+./data/CGAN/cifar/eps10/diff_iter/16000
+exp_name:dpcgan_eps10_16000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/16000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/16000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/16000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 16.14257 
+POSITIVE: The 25pert distance value is: 16.73574 
+POSITIVE: The 50pert distance value is: 18.42807 
+POSITIVE: The 75pert distance value is: 20.51560 
+NEGATIVE: The nearset distance value of is: 16.15205 
+NEGATIVE: The 25pert distance value of is: 16.71283 
+NEGATIVE: The 50pert distance value of is: 18.40518 
+NEGATIVE: The 75pert distance value of is: 20.52836 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.501
+The AUC ROC value of fbb attack is: 0.498 
+./data/CGAN/cifar/eps10/diff_iter/17000
+exp_name:dpcgan_eps10_17000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/17000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/17000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/17000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 15.40326 
+POSITIVE: The 25pert distance value is: 16.66989 
+POSITIVE: The 50pert distance value is: 18.36936 
+POSITIVE: The 75pert distance value is: 20.29227 
+NEGATIVE: The nearset distance value of is: 15.39708 
+NEGATIVE: The 25pert distance value of is: 16.65108 
+NEGATIVE: The 50pert distance value of is: 18.33847 
+NEGATIVE: The 75pert distance value of is: 20.25675 
+The accuracy value of fbb attack is: 0.496 
+The tpr_thres/fpr_thres value of fbb attack is: 0.496 and 0.503
+The AUC ROC value of fbb attack is: 0.497 
+./data/CGAN/cifar/eps10/diff_iter/18000
+exp_name:dpcgan_eps10_18000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/18000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/18000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/18000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 16.15343 
+POSITIVE: The 25pert distance value is: 17.48370 
+POSITIVE: The 50pert distance value is: 19.09764 
+POSITIVE: The 75pert distance value is: 21.03262 
+NEGATIVE: The nearset distance value of is: 16.11497 
+NEGATIVE: The 25pert distance value of is: 17.44299 
+NEGATIVE: The 50pert distance value of is: 19.04699 
+NEGATIVE: The 75pert distance value of is: 21.04428 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.502
+The AUC ROC value of fbb attack is: 0.496 
+./data/CGAN/cifar/eps10/diff_iter/19000
+exp_name:dpcgan_eps10_19000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/19000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/19000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/19000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 14.71084 
+POSITIVE: The 25pert distance value is: 16.90106 
+POSITIVE: The 50pert distance value is: 18.56884 
+POSITIVE: The 75pert distance value is: 20.50076 
+NEGATIVE: The nearset distance value of is: 14.67277 
+NEGATIVE: The 25pert distance value of is: 16.86932 
+NEGATIVE: The 50pert distance value of is: 18.53410 
+NEGATIVE: The 75pert distance value of is: 20.47067 
+The accuracy value of fbb attack is: 0.497 
+The tpr_thres/fpr_thres value of fbb attack is: 0.497 and 0.503
+The AUC ROC value of fbb attack is: 0.495 
+./data/CGAN/cifar/eps10/diff_iter/20000
+exp_name:dpcgan_eps10_20000_cifar
+gan_model_dir:./data/CGAN/cifar/eps10/diff_iter/20000
+pos_data_dir:./data/CGAN/cifar/eps10/diff_iter/20000/train/
+neg_data_dir:./data/CGAN/cifar/eps10/diff_iter/20000/test
+data_num:10000
+resolution:28
+POSITIVE: The nearset distance value is: 16.61442 
+POSITIVE: The 25pert distance value is: 17.50459 
+POSITIVE: The 50pert distance value is: 19.15249 
+POSITIVE: The 75pert distance value is: 21.17206 
+NEGATIVE: The nearset distance value of is: 16.60131 
+NEGATIVE: The 25pert distance value of is: 17.47384 
+NEGATIVE: The 50pert distance value of is: 19.13241 
+NEGATIVE: The 75pert distance value of is: 21.21446 
+The accuracy value of fbb attack is: 0.498 
+The tpr_thres/fpr_thres value of fbb attack is: 0.498 and 0.502
+The AUC ROC value of fbb attack is: 0.498 
