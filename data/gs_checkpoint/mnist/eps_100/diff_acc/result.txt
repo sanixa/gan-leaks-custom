@@ -1,8 +1,0 @@
-thres:10% iter:400, acc:13.1%
-thres:10% iter:1000, acc:50.6%
-thres:20% iter:1000, acc:50.6%
-thres:30% iter:1000, acc:50.6%
-thres:40% iter:1000, acc:50.6%
-thres:50% iter:1000, acc:50.6%
-thres:60% iter:4500, acc:60.2%
-thres:70% iter:11500, acc:71.9%
